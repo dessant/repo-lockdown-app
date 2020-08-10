@@ -1,6 +1,5 @@
 # Repo Lockdown
 
-[![Build Status](https://img.shields.io/travis/com/dessant/repo-lockdown/master.svg)](https://travis-ci.com/dessant/repo-lockdown)
 [![Version](https://img.shields.io/npm/v/repo-lockdown.svg?colorB=007EC6)](https://www.npmjs.com/package/repo-lockdown)
 
 Repo Lockdown is a GitHub App built with [Probot](https://github.com/probot/probot)
@@ -38,7 +37,7 @@ or add it at the same file path to a repository named `.github`.
 The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Repo Lockdown - https://github.com/dessant/repo-lockdown
+# Configuration for Repo Lockdown - https://github.com/dessant/repo-lockdown-app
 
 # Skip issues and pull requests created before a given timestamp. Timestamp must
 # follow ISO 8601 (`YYYY-MM-DD`). Set to `false` to disable
@@ -88,7 +87,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2019 Armin Sebastian
+Copyright (c) 2019-2020 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.

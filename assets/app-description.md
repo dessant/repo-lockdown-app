@@ -1,6 +1,6 @@
 A GitHub App that closes and locks new and existing issues or pull requests. It is used for repositories which do not accept issues or pull requests, such as forks or mirrors.
 
-![](https://raw.githubusercontent.com/dessant/repo-lockdown/master/assets/screenshot.png)
+![](https://raw.githubusercontent.com/dessant/repo-lockdown-app/master/assets/screenshot.png)
 
 ## Supporting the Project
 
@@ -19,7 +19,7 @@ The continued development of Repo Lockdown is made possible thanks to the suppor
 Create `.github/lockdown.yml` in the default branch to enable the app, or add it at the same file path to a repository named `.github`. The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Repo Lockdown - https://github.com/dessant/repo-lockdown
+# Configuration for Repo Lockdown - https://github.com/dessant/repo-lockdown-app
 
 # Skip issues and pull requests created before a given timestamp. Timestamp must
 # follow ISO 8601 (`YYYY-MM-DD`). Set to `false` to disable
