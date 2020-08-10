@@ -2,6 +2,9 @@
 
 [![Version](https://img.shields.io/npm/v/repo-lockdown.svg?colorB=007EC6)](https://www.npmjs.com/package/repo-lockdown)
 
+> This project is in maintenance mode, migrating to the version
+built on GitHub Actions is recommended: https://github.com/dessant/repo-lockdown
+
 Repo Lockdown is a GitHub App built with [Probot](https://github.com/probot/probot)
 that closes and locks new and existing issues or pull requests.
 It is used for repositories which do not accept issues or pull requests,
