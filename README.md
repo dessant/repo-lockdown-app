@@ -13,7 +13,7 @@ such as forks or mirrors.
 
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/repo-lockdown)**
+1. **[Install the GitHub App]()**
    for the intended repositories
 2. Create `.github/lockdown.yml` based on the template below
 3. New issues and/or pull requests will be handled as they are opened,
@@ -50,7 +50,6 @@ close: true
 
 # Lock issues and pull requests
 lock: true
-
 # Limit to only `issues` or `pulls`
 # only: issues
 
