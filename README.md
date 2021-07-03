@@ -2,8 +2,7 @@
 
 [![Version](https://img.shields.io/npm/v/repo-lockdown.svg?colorB=007EC6)](https://www.npmjs.com/package/repo-lockdown)
 
-> This project is in maintenance mode, migrating to the version
-built on GitHub Actions is recommended: https://github.com/dessant/repo-lockdown
+> This project is no longer maintained, please migrate to [Repo Lockdown](https://github.com/dessant/repo-lockdown).
 
 Repo Lockdown is a GitHub App built with [Probot](https://github.com/probot/probot)
 that closes and locks new and existing issues or pull requests.
@@ -11,15 +10,6 @@ It is used for repositories which do not accept issues or pull requests,
 such as forks or mirrors.
 
 ![](assets/screenshot.png)
-
-## Supporting the Project
-
-The continued development of Repo Lockdown is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with
-[Patreon](https://armin.dev/go/patreon?pr=repo-lockdown&src=repo),
-[PayPal](https://armin.dev/go/paypal?pr=repo-lockdown&src=repo) or
-[Bitcoin](https://armin.dev/go/bitcoin?pr=repo-lockdown&src=repo).
 
 ## Usage
 
@@ -90,7 +80,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2019-2020 Armin Sebastian
+Copyright (c) 2019-2021 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.

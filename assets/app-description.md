@@ -2,13 +2,9 @@ A GitHub App that closes and locks new and existing issues or pull requests. It 
 
 ![](https://raw.githubusercontent.com/dessant/repo-lockdown-app/master/assets/screenshot.png)
 
-## Supporting the Project
-
-The continued development of Repo Lockdown is made possible thanks to the support of awesome backers. If you'd like to join them, please consider contributing with [Patreon](https://armin.dev/go/patreon?pr=repo-lockdown&src=app), [PayPal](https://armin.dev/go/paypal?pr=repo-lockdown&src=app) or [Bitcoin](https://armin.dev/go/bitcoin?pr=repo-lockdown&src=app).
-
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/repo-lockdown)** for the intended repositories
+1. **[Install the GitHub App]()** for the intended repositories
 2. Create `.github/lockdown.yml` based on the template below
 3. New issues and/or pull requests will be handled as they are opened, while existing ones will begin to be processed within an hour
 
